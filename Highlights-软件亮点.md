@@ -17,7 +17,7 @@
 
 4. **智能互译**，`CopyTranslator`会自动识别所复制的文字，**根据所设置的**`source`和`target`**进行自动智能互译**，也就是说，如果您复制的是`source`，会翻译为`target`，复制`target`则会翻译为`source`。（不用担心，`Auto Copy`不会与此机制相互影响。）
 
-5. **智能词典**（基于[Youdao](https://github.com/93Alliance/Translator)提供的API）
+5. **智能词典**（基于[Youdao](https://github.com/longcw/youdao)提供的API）
 
    单词少于3的**外语句子**将被视为短语或单词，您将在专注模式上看到更详细的解释。勾选`Smart Dict`选项以启用它。**注：查词限于有道支持的语言，但是您无需也无法手动选择语言。**
 
