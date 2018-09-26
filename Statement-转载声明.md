@@ -1,0 +1,1 @@
+本软件为开源软件，开发者即为博主 [@elliottzheng](https://www.cnblogs.com/elliottzheng/)，软件无任何收费，欢迎star，pr。转发时请附上项目地址
