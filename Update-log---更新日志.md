@@ -1,6 +1,6 @@
 #### v0.0.6.0  全面赋能专注模式
 
-[点此下载](#安装)
+[点此下载](https://github.com/elliottzheng/CopyTranslator/wiki/Downloads-%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85)
 
 1. **智能互译**，`CopyTranslator`会自动识别所复制的文字，根据所设置的`source`和`target`进行自动智能互译，也就是说，如果您复制的是`source`，会翻译为`target`，复制`target`则会翻译为`source`。（不用担心，`Auto Copy`不会与此机制相互影响。）
 
