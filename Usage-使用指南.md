@@ -3,6 +3,8 @@
 附上我朋友录制的介绍视频链接
 
 [https://www.bilibili.com/video/av31396414/](https://www.bilibili.com/video/av31396414/)
+
+
 **但是更详细的功能还请看本文档。**
 ## 文字教程
 
