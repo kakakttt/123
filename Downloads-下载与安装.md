@@ -1,8 +1,8 @@
-### 项目地址
+## 项目地址
 
 https://github.com/elliottzheng/CopyTranslator
 
-### 安装
+## 安装
 
 1. 以下列方式下载最新的Windows版本 [![Download](https://api.bintray.com/packages/elliottzheng/CopyTranslator/CopyTranslator/images/download.svg) ](https://bintray.com/elliottzheng/CopyTranslator/CopyTranslator/_latestVersion)：
 - 非程序员用户推荐从[百度云](https://pan.baidu.com/s/1Lhb6uQK786RMzMjLrDw7fg)下载
