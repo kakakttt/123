@@ -1,6 +1,6 @@
-Welcome to the CopyTranslator wiki!
 # CopyTranslator 
 ![logo](https://s1.ax1x.com/2018/09/13/iEicsU.png)
+
 **复译：外文辅助阅读翻译解决方案**
 
 复译专门针对英文及中文pdf的换行和句尾做了优化，解决文章断句和换行带来的翻译错误问题，翻译结果更符合中文表达。
