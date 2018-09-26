@@ -1,8 +1,9 @@
 ## 视频教程
 
 附上我朋友录制的介绍视频链接
-[https://www.bilibili.com/video/av31396414/](https://www.bilibili.com/video/av31396414/)，**但是更详细的功能还请看本文档。**
-<iframe src="//player.bilibili.com/player.html?aid=31396414&cid=54873436&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+[https://www.bilibili.com/video/av31396414/](https://www.bilibili.com/video/av31396414/)
+**但是更详细的功能还请看本文档。**
 ## 文字教程
 
 有两种可供选择的模式。
