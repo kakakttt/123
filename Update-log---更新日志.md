@@ -1,4 +1,4 @@
-#### v0.0.6.0  全面赋能专注模式
+## v0.0.6.0  全面赋能专注模式
 
 [点此下载](https://github.com/elliottzheng/CopyTranslator/wiki/Downloads-%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85)
 
@@ -23,7 +23,7 @@
 
 5. **复制原文**，您可以通过任务栏图标的菜单点击`Copy Source`以在`Auto Copy`模式下暂时复制原文，而不是译文。
 
-   ![1537871871793](assets/1537871871793.png)
+   ![1537871871793](https://imgchr.com/i/iMamt0)
 
 6. **降低灵敏度**，将点按复制的响应时间变为0.3秒。
 
