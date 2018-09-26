@@ -1,7 +1,9 @@
-### 使用
+## 视频教程
 
 附上我朋友录制的介绍视频链接
 [https://www.bilibili.com/video/av31396414/](https://www.bilibili.com/video/av31396414/)，更详细的功能还请看本文档。
+
+## 文字教程
 
 有两种可供选择的模式。
 
@@ -13,8 +15,6 @@
 **全局热键**: `Shift+F1`，你可以用它来最小化和恢复`CopyTranslator`。(注：可能与部分笔记本电脑快捷键冲突)
 
 **全局热键**: `Shift+F2`，你可以用它在`主模式`和`专注模式`中切换。
-
-
 
 ![taskbar0](https://gitee.com/ylzheng/CopyTranslator/raw/master/screenshot/focus_mode.png)
 
