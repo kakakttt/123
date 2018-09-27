@@ -1,4 +1,4 @@
-## v0.0.6.0  全面赋能专注模式（尚未发布）
+## v0.0.6.0  全面赋能专注模式（已发布，日志尚未更新完成）
 
 [点此下载](https://github.com/elliottzheng/CopyTranslator/wiki/Downloads-%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85)
 
