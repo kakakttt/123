@@ -11,4 +11,5 @@ https://github.com/elliottzheng/CopyTranslator
 2. 解压压缩包到任意位置，在程序目录中运行`shortcut.bat`，它会在桌面上创建一个`CopyTranslator`的快捷方式。
 ### 预览版
 具有最新特性，但是不稳定,也没有使用说明。
+
 [蓝奏云](https://www.lanzous.com/b389683/)
