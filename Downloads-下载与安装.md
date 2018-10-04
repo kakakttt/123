@@ -1,7 +1,8 @@
 ## 安装
 **暂时只提供windows版，但是从理论上，应该只需要简单的修改、打包就可以实现linux版本以及osx版，欢迎有兴趣，有需求的同学开个PR。**
 ### 订阅更新通知
-[MailChamp](http://eepurl.com/dJeqFT)
+- 订阅通知邮件 [MailChamp](http://eepurl.com/dJeqFT)
+- 点击右上角的`watch`
 
 ### 发行版
 1. 以下列方式下载最新的Windows版本 [![Download](https://api.bintray.com/packages/elliottzheng/CopyTranslator/CopyTranslator/images/download.svg) ](https://bintray.com/elliottzheng/CopyTranslator/CopyTranslator/_latestVersion)：
