@@ -6,7 +6,7 @@
 
 [点此下载](https://github.com/elliottzheng/CopyTranslator/wiki/Downloads-%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85)
 
-1. **智能互译**，`CopyTranslator`会自动识别所复制的文字，根据所设置的`source`和`target`进行自动智能互译，也就是说，如果您复制的是`source`，会翻译为`target`，复制`target`则会翻译为`source`。（不用担心，`Auto Copy`不会与此机制相互影响。**但是如果同时还打开了`Detect Language`智能互译不会生效，只会将您的原文翻译成target语言。**，详细解释见Q&A）
+1. **智能互译**，`CopyTranslator`会自动识别所复制的文字，根据所设置的`source`和`target`进行自动智能互译，也就是说，如果您复制的是`source`，会翻译为`target`，复制`target`则会翻译为`source`。（不用担心，`Auto Copy`不会与此机制相互影响。**但是如果同时还打开了`Detect Language`智能互译不会生效，只会将您的原文翻译成target语言。**，**注意，刚发现问题，由于检测语言会自动将`source`设置为目标语言，所以可能在接触检测语言后，source会发生改变，这个问题在下一版本会得到修复**详细解释见Q&A）
 
 2. **智能词典**（基于[Youdao](https://github.com/longcw/youdao)提供的API）
 
