@@ -1,4 +1,4 @@
-本软件为开源软件，开发者即为博主 [@elliottzheng](https://github.com/elliottzheng)，软件无任何收费，欢迎star，pr。转发时请附上项目地址，未附上项目地址的软件转载行为均无授权。
+本软件为开源软件，开发者即为博主 [@elliottzheng](https://github.com/elliottzheng)，软件无任何收费，欢迎star，pr。转发时请附上项目地址，**未附上项目地址的软件转载行为均无授权**。
 [https://github.com/elliottzheng/CopyTranslator](https://github.com/elliottzheng/CopyTranslator)
 
 目前已授权
