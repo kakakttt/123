@@ -7,7 +7,7 @@
 
 ### 发行版
 1. 以下列方式下载最新的Windows版本 [![Download](https://api.bintray.com/packages/elliottzheng/CopyTranslator/CopyTranslator/images/download.svg) ](https://bintray.com/elliottzheng/CopyTranslator/CopyTranslator/_latestVersion)：
-- 非程序员用户推荐从[蓝奏云](https://www.lanzous.com/b389682/)下载
+- 推荐从[蓝奏云](https://www.lanzous.com/b389682/)下载(这样我就可以看到有多少人下载了ヾ(◍°∇°◍)ﾉﾞ)
 - [Github Releases](https://github.com/elliottzheng/CopyTranslator/releases)。
 2. 解压压缩包到任意位置，在程序目录中运行`shortcut.bat`，它会在桌面上创建一个`CopyTranslator`的快捷方式。
 ### 预览版
