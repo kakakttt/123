@@ -9,10 +9,11 @@
 1. 以下列方式下载最新的Windows版本 [![Download](https://api.bintray.com/packages/elliottzheng/CopyTranslator/CopyTranslator/images/download.svg) ](https://bintray.com/elliottzheng/CopyTranslator/CopyTranslator/_latestVersion)：
     - 推荐从[蓝奏云](https://www.lanzous.com/b389682/)下载(这样我就可以看到有多少人下载了ヾ(◍°∇°◍)ﾉﾞ)
     - [Github Releases](https://github.com/elliottzheng/CopyTranslator/releases)。
+
+    最新版本附上了MD5校验码，担心中毒的同学记得校验下MD5,附在GITHUB RELEASE当中了。
+
 2. 解压压缩包到任意位置，在程序目录中运行`shortcut.bat`，它会在桌面上创建一个`CopyTranslator`的快捷方式。
 ### 预览版
-具有最新特性，但是不稳定,也没有使用说明。
-
-现在可以抢先体验v0.0.7的中文界面以及专注模式结果框`ctrl+enter`翻译框内内容，如果无法使用，请删除`c://users/你的用户名/copytranslator.json`再试下
+具有不一定是最新特性，但一定是最新bug，不稳定,也没有使用说明。
 
 [蓝奏云](https://www.lanzous.com/b389683/)
