@@ -10,7 +10,7 @@
     - 推荐从[蓝奏云](https://www.lanzous.com/b389682/)下载(这样我就可以看到有多少人下载了ヾ(◍°∇°◍)ﾉﾞ)
     - [Github Releases](https://github.com/elliottzheng/CopyTranslator/releases)。
 
-    最新版本附上了MD5校验码，担心中毒的同学记得校验下MD5,附在GITHUB RELEASE当中了。
+    最新版本附上了MD5校验码，担心中毒的同学记得校验下MD5,附在[Github Releases](https://github.com/elliottzheng/CopyTranslator/releases)当中了。
 
 2. 解压压缩包到任意位置，在程序目录中运行`shortcut.bat`，它会在桌面上创建一个`CopyTranslator`的快捷方式。
 ### 预览版
