@@ -1,4 +1,11 @@
 **如果您觉得软件对您有所帮助，不用follow，不用fork，点一下右上角的star就是对我最大的支持，欢迎介绍给朋友使用。本软件免费开源，如果您发现有人在网上售卖此软件，请帮忙举报下**
+
+![图标暂无](https://s1.ax1x.com/2018/11/29/FZxqM9.png)
+
+**原图标废止o(╥﹏╥)o，如果找不到图标下一版本只能用全透明图标。。。。**
+
+**现向广大用户征集新图标，不需要有多高的设计水平，现在也是没办法，欢迎大家回复[Issue](https://github.com/elliottzheng/CopyTranslator/issues/12)投稿。或者发送邮件到[copytranslator@hypercube.top](mailto:copytranslator@hypercube.top)投稿，感激不尽。**
+
 ## 安装
 **暂时只提供windows版，但是从理论上，应该只需要简单的修改、打包就可以实现linux版本以及osx版，欢迎有兴趣，有需求的同学开个PR。**
 ### 订阅更新通知
