@@ -4,7 +4,7 @@
 ### 订阅更新通知
 - 订阅通知邮件 [MailChimp](http://eepurl.com/dJeqFT)
 - 点击右上角的`watch`
-
+### v0.0.7-Kylin-RC1 紧急修复，本版本之前的全部版本都已经失效，请立即更新
 ### 发行版
 1. 以下列方式下载最新的Windows版本 [![Download](https://api.bintray.com/packages/elliottzheng/CopyTranslator/CopyTranslator/images/download.svg) ](https://bintray.com/elliottzheng/CopyTranslator/CopyTranslator/_latestVersion)：
     - 推荐从[蓝奏云](https://www.lanzous.com/b389682/)下载(这样我就可以看到有多少人下载了ヾ(◍°∇°◍)ﾉﾞ)
