@@ -2,9 +2,12 @@
 
 附上我朋友录制的介绍视频链接
 
-[https://www.bilibili.com/video/av31396414/](https://www.bilibili.com/video/av31396414/)
+- [Copytranslator 复译 高容错率实时翻译软件 简约生活干货铺](https://www.bilibili.com/video/av31396414/)
 
-**但是视频教程年久失修，更详细的功能还请看文字教程，CopyTranslator经过多次迭代，功能越来越丰富（~~复杂~~），不阅读完整使用指南无法完全发挥其功能，查看使用指南能够解决您90%的疑惑。**
+最新介绍视频 2018.12.06：
+- [【超强】CopyTranslator！最适合科研工作者的翻译工具](https://www.bilibili.com/video/av37503818/)
+
+**更详细的功能还请看文字教程，CopyTranslator经过多次迭代，功能越来越丰富（~~复杂~~），不阅读完整使用指南无法完全发挥其功能，查看使用指南能够解决您90%的疑惑。**
 
 ## 文字教程
 
