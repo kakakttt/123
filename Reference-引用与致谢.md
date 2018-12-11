@@ -1,1 +1,0 @@
-感谢[wxpython](https://wxpython.org/), [googletrans](https://github.com/ssut/py-googletrans), [pyperclip](https://github.com/asweigart/pyperclip), [Youdao](https://github.com/longcw/youdao) 的开发者以及我亲爱的朋友们。
