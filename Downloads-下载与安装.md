@@ -10,6 +10,7 @@
 **暂时只提供windows版，但是从理论上，应该只需要简单的修改、打包就可以实现linux版本以及osx版，欢迎有兴趣，有需求的同学开个PR。**
 ### 订阅更新通知
 - 点击右上角的`watch`
+- CopyTranslator每次启动都会自动检查更新的。。。。
 ### v0.0.7-Kylin-RC1 紧急修复，v0.0.7-Kylin-RC1之前的全部版本都已经失效，请立即更新
 ### 发行版
 1. 以下列方式下载最新的Windows版本 [![Download](https://api.bintray.com/packages/elliottzheng/CopyTranslator/CopyTranslator/images/download.svg) ](https://bintray.com/elliottzheng/CopyTranslator/CopyTranslator/_latestVersion)：
