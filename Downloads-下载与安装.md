@@ -5,7 +5,8 @@
 **原图标废止o(╥﹏╥)o，如果找不到图标下一版本只能用全透明图标。。。。**
 
 **现向广大用户征集新图标，不需要有多高的设计水平，现在也是没办法，欢迎大家回复[Issue](https://github.com/elliottzheng/CopyTranslator/issues/12)投稿。或者发送邮件到[copytranslator@hypercube.top](mailto:copytranslator@hypercube.top)投稿，感激不尽。**
-
+## 在线交流
+加入我们的[Gitter](https://gitter.im/CopyTranslator/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)聊天室。
 ## 安装
 **暂时只提供windows版，但是从理论上，应该只需要简单的修改、打包就可以实现linux版本以及osx版，欢迎有兴趣，有需求的同学开个PR。**
 ### 订阅更新通知
