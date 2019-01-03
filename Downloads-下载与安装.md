@@ -14,7 +14,7 @@
     - [百度云](https://pan.baidu.com/s/1mySoacl-V6tGE2xCH79wyQ)
     - [Github Releases](https://github.com/elliottzheng/CopyTranslator/releases)。
 
-    最新版本附上了MD5校验码，担心中毒的同学记得校验下MD5,附在[Github Releases](https://github.com/elliottzheng/CopyTranslator/releases)当中了。**如果下载后无法使用/报毒，请尝试换个途径下载，或者校验一下所下载文件的MD5。如依然无法使用，可以邮件联系我。点击<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=JUZKVVxRV0RLVklEUUpXZU1cVUBXRlBHQAtRSlU" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png"/></a>**
+    最新版本附上了MD5校验码，担心中毒的同学记得校验下MD5,附在[Github Releases](https://github.com/elliottzheng/CopyTranslator/releases)当中了。**如果下载后无法使用/报毒，请尝试换个途径下载，或者校验一下所下载文件的MD5。如依然无法使用，可以发送邮件到[copytranslator@hypercube.top](mailto:copytranslator@hypercube.top)联系我**
 
 2. 解压压缩包到任意位置，在程序目录中运行`shortcut.bat`，它会在桌面上创建一个`CopyTranslator`的快捷方式。
 ### 预览版
