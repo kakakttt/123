@@ -16,6 +16,7 @@
 ### 发行版
 1. 以下列方式下载最新的Windows版本 [![Download](https://api.bintray.com/packages/elliottzheng/CopyTranslator/CopyTranslator/images/download.svg) ](https://bintray.com/elliottzheng/CopyTranslator/CopyTranslator/_latestVersion)：
     - 推荐从[蓝奏云](https://www.lanzous.com/b389682/)下载(这样我就可以看到有多少人下载了ヾ(◍°∇°◍)ﾉﾞ)
+    - [百度云](https://pan.baidu.com/s/1mySoacl-V6tGE2xCH79wyQ)
     - [Github Releases](https://github.com/elliottzheng/CopyTranslator/releases)。
 
     最新版本附上了MD5校验码，担心中毒的同学记得校验下MD5,附在[Github Releases](https://github.com/elliottzheng/CopyTranslator/releases)当中了。
